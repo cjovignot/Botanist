@@ -1,2 +1,0 @@
-# Botanist
-Botanist Web App
